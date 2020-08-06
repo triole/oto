@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hajimehoshi/oto"
+	"github.com/triole/oto"
 )
 
 var (
